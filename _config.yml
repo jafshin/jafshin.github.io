@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Afshin Jafari"
+  name             : "Afshin Jafari, PhD (he/him)"
   avatar           : "profile_aj.jpg"
-  bio              : "bio"
+  bio              : "Afshin is a computational urban researcher with expertise in large-scale agent-based modeling, transport and land use modeling, and data science. Afshin's research is focused on ways to promote active and sustainable transport through  built environment change interventions."
   location         : "Melbourne, AU"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
